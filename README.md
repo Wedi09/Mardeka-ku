@@ -1,2 +1,0 @@
-# Mardeka-ku
-Optional
